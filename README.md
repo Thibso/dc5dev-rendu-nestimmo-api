@@ -1,4 +1,6 @@
-# Start project
+# Rendu SOULET Thibaut
+
+## Start project
 
 ```bash
   # Install dependencies
@@ -9,8 +11,8 @@
   npm run dev
 ```
 
-
 # Dev line code
+
 ```bash
   # Create module with service ....
   nest generate resource post
@@ -19,7 +21,6 @@
   # Install config
   npm i @nestjs/config
 ```
-
 
 # TODO
 
